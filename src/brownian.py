@@ -3,6 +3,7 @@ brownian() implements one dimensional Brownian motion (i.e. the Wiener process).
 """
 
 # File: brownian.py
+#wow so good baby
 
 from math import sqrt
 from scipy.stats import norm
